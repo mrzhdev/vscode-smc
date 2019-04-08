@@ -1,0 +1,26 @@
+{
+    "name": "vscode-smc",
+    "displayName": "Smc grammar syntax support",
+    "description": "State machine compiler highlighter",
+    "version": "1.0.0",
+    "publisher": "mirza-hernic",
+    "engines": {
+        "vscode": "^1.2.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "smc",
+            "aliases": ["State machine compiler", "smc"],
+            "extensions": [".sm"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "smc",
+            "scopeName": "source.smc",
+            "path": "./syntaxes/smc.tmlanguage"
+        }]
+    }
+}
