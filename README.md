@@ -8,7 +8,7 @@ Visit home page <http://smc.sourceforge.net/>
 
 ### Syntax highlighter
 
-\!\[Syntax lihglihgter\]\(images/Highlight.png)
+![Highlight](https://user-images.githubusercontent.com/47992551/55833753-95ad0e00-5b18-11e9-90dc-d6e6267bae92.png)
 
 ## Requirements
 
