@@ -4,6 +4,7 @@
     "description": "State machine compiler highlighter",
     "version": "1.0.0",
     "publisher": "mirza-hernic",
+	"icon": "./images/SmcLogo.png"
     "engines": {
         "vscode": "^1.2.0"
     },
