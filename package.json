@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "https://github.com/mrzhdev/vscode-smc"
 	},
-	"icon": "./images/SmcLogo.png",
+	"icon": "images/SmcLogo.png",
     "engines": {
         "vscode": "^1.2.0"
     },
