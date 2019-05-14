@@ -4,6 +4,10 @@
     "description": "State machine compiler highlighter",
     "version": "1.0.0",
     "publisher": "mirza-hernic",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrzhdev/vscode-smc"
+	},
 	"icon": "./images/SmcLogo.png",
     "engines": {
         "vscode": "^1.2.0"
